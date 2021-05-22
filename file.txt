@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a relevant fact
+=======
+3
+>>>>>>> b5d8f0cd20c73c23ba6e2f5c4f063de0f81ddeef
