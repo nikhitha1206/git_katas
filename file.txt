@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 This is a relevant fact 
 This is also relevant 
 Perhaps this is the most relevant 
 This is the prime directive 
 NEVER change public history
+=======
+<<<<<<< HEAD
+This is a relevant fact
+=======
+3
+>>>>>>> b5d8f0cd20c73c23ba6e2f5c4f063de0f81ddeef
+>>>>>>> b190da8e51dc58885314195f83d194ecfd3bf5db
